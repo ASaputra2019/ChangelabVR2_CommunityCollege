@@ -13,6 +13,9 @@ TagManager:
   - TriggerForObj4
   - TriggerForObj5
   - PartOfObj2
+  - PartOfObj3
+  - PartOfObj4
+  - PartOfObj5
   layers:
   - Default
   - TransparentFX
